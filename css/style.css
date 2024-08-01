@@ -9,7 +9,7 @@ body {
   color: #4c4e4d; }
 .whatsapp-btn-contanier{
     position: fixed;
-    right: 30px;
+    right: -20px;
     bottom: -50px;
     opacity: 0;
     padding: 24px;
